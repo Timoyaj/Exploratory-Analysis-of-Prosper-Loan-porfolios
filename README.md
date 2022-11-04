@@ -31,9 +31,9 @@ Most of my cleaning efforts where on handling missing values,removing duplicates
 >* Loan delinquency fluctuates over the years with the lowest delinquent loan payment amount occuring in the year 2009.
 >* There is a negative relationship between  between Borrower APR with Monthly loan payment and loan original amount for loans that are delinquent. Also a positive relationship exist between loan original maount with monthly loan payment and debt to income ratio for loans that are delinquent in propser loan porfolio.
 
-> What is the proportion of delinquent loan in prosper porfolio?*
-> What term of the loans has the higest total amount of monthly loan payment deliquent  and for what purpose was the loans taken**
-> What is the Credit Score of Borrowers with the highest frequency of Loan Delinquency?**
-> What is the proportion borrowers with delinquent loans that are home owners?**
-> Which year has the lowest number of delinquent loans**
-> Does any Relationship exit between BorrowerAPR,MonthlyLoanPayment, LoanOriginalAmount, DebtToIncomeRatio for delinquent loans?**
+>* What is the proportion of delinquent loan in prosper porfolio?
+>* What term of the loans has the higest total amount of monthly loan payment deliquent  and for what purpose was the loans taken
+>* What is the Credit Score of Borrowers with the highest frequency of Loan Delinquency?
+>* What is the proportion borrowers with delinquent loans that are home owners?
+>* Which year has the lowest number of delinquent loans
+>* Does any Relationship exit between BorrowerAPR,MonthlyLoanPayment, LoanOriginalAmount, DebtToIncomeRatio for delinquent loans?
