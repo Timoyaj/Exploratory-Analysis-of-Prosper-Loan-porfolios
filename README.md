@@ -15,7 +15,7 @@ Most of my cleaning efforts where on handling missing values,removing duplicates
 >*  Delinquent loans constitute 15.16% of the loans in the portfolio
 >* Only 7.62% of borrowers don't have their income verified have thier loans delinquent
 >* Borrowers with good credit score have the highest number of delinquent loans.
->* The higest total amount of loans delinquent was from 36 months term loans which has thier purpose specified as Not available
+>* The higest total amount of loans delinquent was from 36 months term loans which has thier purpose not specified
 >* Over the years delinquency fluctuates with its peaks in 2009
 > * Loan monthly payment correlates with BorrowerAPR and Loan Origination Amount.
 >* There is a negative relationship between  between Borrower APR with Monthly loan payment and loan original amount for loans that are delinquent. Also a positive relationship exist between loan original maount with monthly loan payment and debt to income ratio for loans that are delinquent in propser loan porfolio.
